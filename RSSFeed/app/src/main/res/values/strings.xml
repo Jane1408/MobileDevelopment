@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RSSFeed</string>
+    <string name="header">RSS Лента</string>
+    <string name="url">https://lenta.ru/rss</string>
+</resources>
